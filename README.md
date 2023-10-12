@@ -1,9 +1,11 @@
-Olá!
+<h1>Hi, there! 🙂</h1>
+<hr/>
+
+<h2>Sou o <a href="https://www.linkedin.com/in/j%C3%B4natas-pereira-brito-pessoa/">Jônatas</a>, tenho 25 anos, moro em São Paulo 🌐</h2>
+
+<h3>Meu objetivo é me tornar um desenvolvedor fullstack 💻</h3>
+
+
   
-  Sou Jônatas Pessoa, tenho 25 anos estudo técnologia há pouco mais de 1 ano para me tornar um desenvolvedor e iniciei o curso de Análise e Desenvolvimento de Software. Quero iniciar no mercado desenvolvendo para o front-end, por isso tenho focado meus estudos em JavaScript(EcmaScript6) e aprimoramento em HTML5 e CSS3, além de estar de estar praticando Git e GitHub.
-  Minha base de estudos tem sido o curso Full Stack da B7Web, youtube e páginas no instagram que postam bastante conteúdo diariamente de uma forma resumida para complementar o conteúdo estudado. 
-
- Me sigam e mandem aquele feedback sincero nos comentários, quero sempre melhorar e por estudar sozinho conto com a interação nas redes sociais para isso. www.linkedin.com/in/Jônatas-Pereira-Brito-Pessoa.
-
-
+ <p>Estudo técnologias voltada para a área dev há pouco mais de 1 ano, estou no segundo semestre de Análise e Desenvolvimento de Software. Vocês encontrarão por aqui alguns projetos que fiz e ainda estou praticando na área de desenvolvimento web com as seguintes tecnologias: HTML5, CSS3, Javascript, PHP, MySQL 📚</p>
 
